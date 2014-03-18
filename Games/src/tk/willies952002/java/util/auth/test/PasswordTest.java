@@ -16,6 +16,7 @@ public class PasswordTest {
 		System.out.println("Please Enter Password: ");
 		Scanner sc = new Scanner(System.in);
 		password = sc.nextLine();
+		sc.close();
 	}
 
 	@Test

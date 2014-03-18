@@ -1,4 +1,4 @@
-package tk.willies952002.java.game.util.multiplayer;
+package tk.willies952002.java.games.util.multiplayer;
 
 import java.io.File;
 import java.io.FileReader;

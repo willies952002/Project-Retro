@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import tk.willies952002.java.game.util.auth.LoginClient;
+import tk.willies952002.java.games.util.auth.LoginClient;
 import tk.willies952002.java.util.auth.Password;
 
 public class LoginClientTest {

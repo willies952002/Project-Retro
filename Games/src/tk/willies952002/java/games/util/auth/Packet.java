@@ -1,4 +1,4 @@
-package tk.willies952002.java.game.util.auth;
+package tk.willies952002.java.games.util.auth;
 
 public abstract class Packet {
 

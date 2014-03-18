@@ -1,6 +1,6 @@
-package tk.willies952002.java.game.util.auth;
+package tk.willies952002.java.games.util.auth;
 
-import tk.willies952002.java.game.util.multiplayer.Client;
+import tk.willies952002.java.games.util.multiplayer.Client;
 import tk.willies952002.java.util.ServerCommand;
 import tk.willies952002.java.util.auth.Password;
 
